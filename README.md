@@ -5,4 +5,6 @@
 * Lucas Leandro Costa Lacerda
 
 * Import from GitLab
-	* Import from [GitLab](https://gitlab.com/learning-react-redux-js/toDoList)
+	* Project -> [GitLab](https://gitlab.com/learning-react-redux-js/toDoList)
+
+Code with :heart: by Lucas Lacerda

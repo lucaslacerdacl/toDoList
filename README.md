@@ -7,4 +7,4 @@
 * Import from GitLab
 	* Project -> [GitLab](https://gitlab.com/learning-react-redux-js/toDoList)
 
-Code with :heart: by Lucas Lacerda
+Code with &nbsp; :heart:  &nbsp; by Lucas Lacerda
